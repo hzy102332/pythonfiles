@@ -1,0 +1,4 @@
+Carrots 3.4
+Cabbage 5.3
+Pumpkin 2.3
+Tomatoes 5.3
